@@ -16,7 +16,7 @@ sudo yum install git -y
 Download the spring-boot application from repository at any specific location
 
 ```bash
-sudo git clone https://github.com/TheCloudWorld/spring-boot-demo-app.git
+sudo git clone https://github.com/puneet76-sharma/spring-boot-demo-app-for-terraform-pipelines.git
 ```
 
 ## Step-3
@@ -61,3 +61,6 @@ java -jar JAR_FILE_NAME.jar
 ```bash
 nohup java -jar JAR_FILE_NAME.jar > /dev/null 2>&1 &
 ```
+
+
+For more instructions., visit https://spring.io/guides/gs/accessing-data-mysql/
